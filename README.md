@@ -1,2 +1,2 @@
 # Examen Recuperación Abril 2020
- 1 + 1 = 7 (Texto de la rama dev)
+ 1 + 1 = 2 (Texto de la rama master)
